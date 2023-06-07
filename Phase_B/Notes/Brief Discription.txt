@@ -1,0 +1,2 @@
+This project is for Embeded Systems-Spring2023
+The project goal was to design, construct and test a system for a Kitchen timer.
